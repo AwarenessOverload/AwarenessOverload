@@ -2,7 +2,7 @@
 author: Anonymous
 layout: post-full
 title: Access to public transport should be a right and not a privilege!
-featimg: bus.JPG
+featimg: bus.jpg
 tags: [accessibility, disability rights]
 category: [public transport]
 ---
