@@ -3,17 +3,6 @@ layout: index-full
 description: A fun community website for the disabled community in Ireland. 
 ---
 
-<head>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-141218508-1');
-</script>
-
-</head>
-
 {% for post in paginator.posts %}
     {% include article_index.html %}
 {% endfor %}
