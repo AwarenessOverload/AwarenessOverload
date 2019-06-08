@@ -1,6 +1,6 @@
 ---
 author: anon
-layout: post-full
+layout: image
 type: image
 featimg: vis.jpg
 title: Don't judge a disability by its visibility
