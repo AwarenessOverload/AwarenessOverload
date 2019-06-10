@@ -1,7 +1,7 @@
 ---
 author: Seán O’Kelly
 layout: post-full
-title: Dublin Pub / Bar Access Survey - 1
+title: Challenges and limitations in my life could be avoided
 tags: [wheelchair accessibility, disability rights]
 category: [articles]
 ---
