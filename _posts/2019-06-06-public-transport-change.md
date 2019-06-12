@@ -1,5 +1,5 @@
 ---
-author: Tadhg De Freine
+author: tadhg-de-freine
 layout: post-full
 title: Why public transport needs to make a change in their services!
 featimg: dart.jpg
