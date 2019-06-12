@@ -1,5 +1,5 @@
 ---
-author: Seán O’Kelly
+author: sean-o-kelly
 layout: post-full
 title: Challenges and limitations in my life that could be avoided
 tags: [wheelchair accessibility, disability rights]
