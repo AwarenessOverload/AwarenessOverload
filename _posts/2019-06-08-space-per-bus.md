@@ -1,5 +1,5 @@
 ---
-author: Conal Knight
+author: conall-knight
 layout: post-full
 title: Is One Accessible Seating Space Per Bus Enough?
 featimg: bus2.jpg
