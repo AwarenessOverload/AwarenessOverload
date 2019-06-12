@@ -1,5 +1,5 @@
 ---
-author: Conall Knight
+author: conall-knight
 layout: post-full
 title: One In Four – Verbal Abuse of Disabled People on Public Transport
 tags: [accessibility, disability rights]
