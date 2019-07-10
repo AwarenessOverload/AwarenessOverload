@@ -1,8 +1,7 @@
 ---
 author: oisin-putt
 layout: post-full
-title: Accessibility doesn’t always 
-mean 
+title: Accessibility doesn’t always mean 
 tags: [public transport, disability rights]
 category: [public transport]
 ---
