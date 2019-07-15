@@ -1,5 +1,14 @@
-Ireland’s rules and regulations on
-accessibility and inclusivity.
+
+author: oisin putt
+layout: post-full
+title: -Irelands legislationon accessibility and inclusivity.
+tags: [ACCESSIBILITY,INCLUSIVITY]
+category: [SERVICES]
+
+
+
+
+
 
 Although Irelands rules and regulations regarding wheelchair accessibility and disabled bathrooms
 and general inclusivity are mostly policy based,(for example it is at the discretion of the owner of.
