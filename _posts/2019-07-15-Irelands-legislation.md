@@ -1,7 +1,7 @@
 ---
 author: oisinputt
 layout: post-full
-title:Irelands legislation on accessibility and inclusivity
+title: Irelands legislation on accessibility and inclusivity
 
 tags: [acessibility]
 category: [services]
