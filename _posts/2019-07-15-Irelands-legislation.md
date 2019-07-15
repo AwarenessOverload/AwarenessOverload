@@ -1,10 +1,10 @@
 ---
-author: AUTHOR-Oisin Putt
+author: oisinputt
 layout: post-full
-title: TITLE-Irelands legislation on accessibility and inclusivity
+title:Irelands legislation on accessibility and inclusivity
 
 tags: [acessibility]
-category: [CATEGORY-services]
+category: [services]
 ---
 Ireland’s rules and regulations on
 accessibility and inclusivity.
@@ -17,7 +17,7 @@ access the disabled bathroom. People often mistake the disabled bathroom for “
 bathroom” This confusion is generally caused by this symbol.
 
 
-![image][https://i.imgur.com/NgqXVkQ.jpg]
+![image](https://i.imgur.com/NgqXVkQ.jpg)
 
 
 
