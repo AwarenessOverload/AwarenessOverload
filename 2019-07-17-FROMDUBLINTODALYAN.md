@@ -1,7 +1,13 @@
+
 ---
-author: CONALL KNIGHT
-title: FROM DUBLIN TO DAYLAN-TRAVEL LOG AND REVIEW
+author: conall knight
+layout: post-full
+title: from dublin to dalyan travel log and review
+featimg: IMG-HERE
+tags: [services,public transport]
+category: [services]
 ---
+
 
 For the last few days, I have been on holiday in Dalyan, Turkey. It’s been great, relaxing all
 day in the 30-to-40 degree heat, however getting here wasn’t so easy. I forgot to get Visas
