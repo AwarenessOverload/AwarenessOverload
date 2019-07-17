@@ -1,9 +1,7 @@
 
 ---
 author: conall knight
-layout: post-full
 title: from dublin to dalyan travel log and review
-featimg: IMG-HERE
 tags: [services,public transport]
 category: [services]
 ---
