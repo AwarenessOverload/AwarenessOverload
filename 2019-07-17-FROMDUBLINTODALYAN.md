@@ -3,7 +3,7 @@
 author:conall knight
 title:from Dublinto Dalyan trave llogand review
 tags:[services,public transport]
-category:[services]
+category:[accessibility]
 ---
 
 
