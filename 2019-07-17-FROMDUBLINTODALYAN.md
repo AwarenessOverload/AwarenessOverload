@@ -1,9 +1,9 @@
 
 ---
-author:conall knight
-title:from Dublinto Dalyan travel log and review
-tags:[services,public transport]
-category:[accessibility]
+author: conall knight
+title: from Dublinto Dalyan travel log and review
+tags: [services,public transport]
+category: [accessibility]
 ---
 
 
