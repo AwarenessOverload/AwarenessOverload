@@ -1,7 +1,7 @@
 
 ---
 author:conall knight
-title:from Dublinto Dalyan trave llogand review
+title:from Dublinto Dalyan travel log and review
 tags:[services,public transport]
 category:[accessibility]
 ---
