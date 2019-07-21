@@ -1,10 +1,10 @@
  ---
-author: AUTHOR- conall knight.
+author: conall knight.
 layout: post-full
-title: TITLE- From Dublin to Dalyan travel log and review.
+title: From Dublin to Dalyan travel log and review.
 featimg: IMG-HERE
 tags: [TAG1, TAG2]
-category: [CATEGORY-HERE]
+category: [accessibility]
 ---
 
 
