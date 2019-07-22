@@ -1,7 +1,7 @@
 ---
 author: conall knight
 layout: post-full
-title: TITLE-Disability in the work force
+title: Disability in the work force
 featimg: IMG-HERE
 tags: [Accessibility]
 category: [disability rights]
