@@ -4,7 +4,7 @@ author: conall knight
 layout: post-full
 title: Which is more reliable for the disabled community mytaxi or lynktaxi
 featimg: IMG-HERE
-tags: [accessibility, TAG2]
+tags: [accessibility,disability rights]
 category: [public transport]
 ---
 
