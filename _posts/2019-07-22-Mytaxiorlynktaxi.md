@@ -70,3 +70,4 @@ Overall, while travelling by taxi, if you have the money, is a good accessible a
 public transport if you are a disabled person, we would strongly recommend using Mytaxi
 and staying away from Lynk. If anyone working with Lynk is reading this, I hope we have
 outlined the problems that currently exist, and that you take this feedback onboard.
+
