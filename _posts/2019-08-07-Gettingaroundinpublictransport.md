@@ -7,7 +7,6 @@ tags: [Public transport, accessibility]
 category: [inclusivity]
 ---
 
-
 At the best of times, getting around using public transport is invariably a
 nightmare. Before I passed my driving test back in December 2017, I (like
 many) was relying on public transport in order for me to get around doing
