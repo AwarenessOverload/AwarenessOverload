@@ -1,8 +1,8 @@
 ---
 author: oisin putt
-layout: post-full
+layout: 
 title: budget airline staff need grounding in equal status act rules!
-featimg: IMG-HERE
+featimg: 
 tags: [inclusivity,public transport]
 category: [accessibility]
 ---
@@ -21,4 +21,4 @@ If you have been affected in a similar way please contact us to share your story
 
  
 
-Oisín Putt
+Oisín Putt and the rest of the Awareness Overload Team.
