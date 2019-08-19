@@ -11,8 +11,6 @@ On the 9th of August this summer 17 year old Sean McCullough was due to fly home
 
 This is an excellent example of the lack of care and general effort provided by not just Manchester special services and Ryanair. Once again we see how the minorities suffer at the expense of the majority of society. The disabled community is still viewed as a minority in this day and age.
 
- 
-
 Sandra Mccullagh Seans mother took to facebook to vent and share their upset about the incident. Sean was returning from volunteering for the Back up Charity – teaching wheelchair skills to people with Spinal injuries in Manchester. Sean is a wheelchair athlete who has represented Ireland on numerous occasions.
 
  
