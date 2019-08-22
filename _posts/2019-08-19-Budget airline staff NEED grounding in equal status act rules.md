@@ -1,7 +1,8 @@
 ---
 author: Oisin Putt
 layout: post-full
-title: <h2> Budget airline staff NEED grounding in equal status act rules.
+title: <h2> Budget airline staff 
+NEED grounding in equal status act rules.
 tags: [wheelchair accessibility, disability rights]
 category: [articles]
 
