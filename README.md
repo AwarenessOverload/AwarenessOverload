@@ -8,3 +8,5 @@ Awareness Overload is a fun community website with the goal to seeing a more acc
 * A map that gives an accurate report on places across Dublin on how wheelchair accessible they are
 * Regular updates on events or campaigns contributing to disability rights
 * Fundraising for several charity organizations.
+
+test
