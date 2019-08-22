@@ -1,10 +1,4 @@
----
-author: conall knight 
-layout: post-full
-title: Public Transport - Where’s All The Spontaneity Gone?
-featimg: IMG-HERE
-tags: [TAG1, TAG2]
-category: [CATEGORY-HERE]
+Public Transport - Where’s All The Spontaneity Gone?
 ---
 
 For those of you who did not read my Dublin to Dalyan travel log article, I was recently in
@@ -62,3 +56,5 @@ often change meaning you can’t always arrange something 24 hours or even just 
 advance. While these policies are in place, when this happens disabled people are left unable to
 travel, and that’s a clear sign that we as a society have a lot to do before we can truly say public
 transport is accessible to all.
+
+By Conall Knight 
