@@ -1,4 +1,4 @@
-
+Public transport where’s all the spontaneity gone?
 ---
 
 For those of you who did not read my Dublin to Dalyan travel log article, I was recently in
