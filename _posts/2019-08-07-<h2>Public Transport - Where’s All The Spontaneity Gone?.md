@@ -1,8 +1,8 @@
 ---
 author: conall knight 
-layout: 
+layout: post-full
 title: public transport. wheres all the spontaneity gone?
-featimg: ![](https://raw.githubusercontent.com/AwarenessOverload/AwarenessOverload/gh-pages/img/luas.jpg)
+featimg:![](https://raw.githubusercontent.com/AwarenessOverload/AwarenessOverload/gh-pages/img/luas.jpg)
 tags: [TAG1, TAG2]
 category: [CATEGORY-HERE]
 ---
