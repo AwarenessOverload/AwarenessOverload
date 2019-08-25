@@ -2,7 +2,7 @@
 author: conall knight 
 layout: post-full
 title: public transport. wheres all the spontaneity gone?
-featimg: ![](https://raw.githubusercontent.com/AwarenessOverload/AwarenessOverload/gh-pages/img/luas.jpg)
+featimg: ![](https://raw.githubusercontent.com/AwarenessOverload/AwarenessOverload/gh-pages/)
 tags: [public transport, disability rights]
 category: [inclusivity]
 ---
