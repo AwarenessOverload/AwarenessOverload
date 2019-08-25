@@ -1,6 +1,12 @@
 ---
+author: 
+layout: 
+title: Public Transport. wheres all the spontaneity gone?
+featimg: 
 ![](https://raw.githubusercontent.com/AwarenessOverload/AwarenessOverload/gh-pages/img/luas.jpg)
-
+tags: [TAG1, TAG2]
+category: [CATEGORY-HERE]
+---
 For those of you who did not read my Dublin to Dalyan travel log article, I was recently in
 Dalyan, Turkey. While there, I encountered a few things that gave me a culture shock of sorts.
 Of course there were the obvious things like the regular call to prayer, but one thing surprised
