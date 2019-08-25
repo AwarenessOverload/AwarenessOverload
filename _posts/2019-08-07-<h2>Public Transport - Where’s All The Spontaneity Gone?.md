@@ -2,9 +2,9 @@
 author: conall knight 
 layout: post-full
 title: public transport. wheres all the spontaneity gone?
-featimg:![](https://raw.githubusercontent.com/AwarenessOverload/AwarenessOverload/gh-pages/img/luas.jpg)
-tags: [TAG1, TAG2]
-category: [CATEGORY-HERE]
+featimg: ![](https://raw.githubusercontent.com/AwarenessOverload/AwarenessOverload/gh-pages/img/luas.jpg)
+tags: [public transport, disability rights]
+category: [inclusivity]
 ---
 For those of you who did not read my Dublin to Dalyan travel log article, I was recently in
 Dalyan, Turkey. While there, I encountered a few things that gave me a culture shock of sorts.
