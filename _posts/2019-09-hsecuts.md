@@ -2,7 +2,7 @@
 author: sean dunne
 layout: post-full
 title: HSE to stop cut funding for the rehabilitative training programme!
-featimg: https://c0.thejournal.ie/media/2019/02/hse-569_90561088-310x415.jpg
+featimg: https://cdn-01.independent.ie/incoming/article34692530.ece/e4b6c/AUTOCROP/w620/page16_deal.jpg
 tags: [accessibility, TAG2]
 category: [inclusivity]
 ---
