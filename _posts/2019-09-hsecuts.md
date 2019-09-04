@@ -2,7 +2,7 @@
 author: sean dunne
 layout: post-full
 title: HSE rehabilitative training programme cuts.
-featimg: https://cdn-01.independent.ie/incoming/article34692530.ece/e4b6c/AUTOCROP/w620/page16_deal.jpg
+featimg:
 tags: [accessibility, TAG2]
 category: [inclusivity]
 ---
