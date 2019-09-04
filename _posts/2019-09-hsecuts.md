@@ -2,7 +2,7 @@
 author: sean dunne
 layout: post-full
 title: hse cuts on rehabilitative training programme cuts.
-featimg:https://github.com/AwarenessOverload/AwarenessOverload/blob/218f4f1f6aa07ad449fa683b4c389e3c28bf1791/img/page16_deal%5B1%5D.jpg?raw=true  
+featimg:
 tags: [accessibility, TAG2]
 category: [inclusivity]
 ---
