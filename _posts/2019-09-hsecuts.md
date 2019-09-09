@@ -1,9 +1,9 @@
 ---
 author: sean dunne
 layout: post-full
-title: Cuts on rehabilitative training programme cuts.
-featimg:
-tags: [accessibility,incluaivity]
+title: HSE cuts funding for rehabilitative training allowance.
+featimg: IMG-HERE
+tags: [inclusivity,accessibility]
 category: [inclusivity]
 ---
 
