@@ -1,9 +1,9 @@
 ---
 author: sean dunne
 layout: post-full
-title: hse cuts on rehabilitative training programme cuts.
+title: Cuts on rehabilitative training programme cuts.
 featimg:
-tags: [accessibility, TAG2]
+tags: [accessibility,incluaivity]
 category: [inclusivity]
 ---
 
