@@ -1,7 +1,7 @@
 ---
 author: Sean Dunne
 layout: post-full
-title:  <h5>HSE cut funding for rehabilitative programme
+title:  <h5>   HSE cut funding for rehabilitative programme
 featimg: 
 tags: [inclusivity, accessibilty ]
 category: [inclusivity]
