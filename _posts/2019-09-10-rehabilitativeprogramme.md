@@ -22,7 +22,12 @@ It is estimated that the cuts will affect approximately 400 students this year a
 <br/>
 “Our staff are the ones who are going to be meeting people this month, telling them that they’re not going to get this allowance. So they’re quite upset about it,” spokeswoman Kathleen O’Meara said.
 <br/>
+<br/>
 Readers could get involved by protesting outside Leinster House or writing to Paul Reid, Director General of the HSE.
 <br/>
+<br/>
 Minister for health Simon Harris has defended the decision
+<br/>
+<br/>
+By Sean Dunne
 
