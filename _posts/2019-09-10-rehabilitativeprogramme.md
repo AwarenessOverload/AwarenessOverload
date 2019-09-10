@@ -1,5 +1,5 @@
 ---
-author: sean dunne
+author: Sean Dunne
 layout: post-full
 title: HSE cut funding for rehabilitative training programme
 featimg: 
