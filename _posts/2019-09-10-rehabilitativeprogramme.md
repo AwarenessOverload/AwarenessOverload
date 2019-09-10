@@ -15,31 +15,14 @@ Students have been demonstrating outside Leinster house in protest
 <br/>
 <br/>
 Conor Dillon, from swords, speaking to The Irish Times has also condemned the decision, saying that “Being on a rehabilitative training course means not every lesson is in the classroom. Some lessons could be in the classroom and then some could be in the community. We could have trips out into town, up to Galway, to Limerick so this is a vital piece of money,”
-
-
-Here’s those questions answered, this should bulk up the article quite a bit hopefully;
-
-
-
-It is estimated that the cuts will affect approximately 400 students this year alone
-
-
- 
-However, the HSE will be investing this money in other ways, including providing 90 new emergency residential places, 182,506 respite overnight stays, and supporting disability needs assessment and €12m will be available to school leavers with a disability
-
-
-
-The Rehab Group describes the cut as cruel
-
-
-
+<br/>
+<br/>
+It is estimated that the cuts will affect approximately 400 students this year alone. However, the HSE will be investing this money in other ways, including providing 90 new emergency residential places, 182,506 respite overnight stays, and supporting disability needs assessment and €12m will be available to school leavers with a disability. The Rehab Group describes the cut as ''cruel''
+<br/>
+<br/>
 “Our staff are the ones who are going to be meeting people this month, telling them that they’re not going to get this allowance. So they’re quite upset about it,” spokeswoman Kathleen O’Meara said.
-
-
-
+<br/>
 Readers could get involved by protesting outside Leinster House or writing to Paul Reid, Director General of the HSE.
-
-
-
+<br/>
 Minister for health Simon Harris has defended the decision
 
