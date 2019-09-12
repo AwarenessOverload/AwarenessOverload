@@ -2,7 +2,7 @@
 author: Aisling McNiffe
 layout: post-full
 title: A Second Class Citizen
-featimg: IMG-HERE
+featimg:
 tags: 
 category: 
 ---
@@ -45,10 +45,10 @@ For people with disabilities and carers trying to live their lives with the pers
 <br/>
 <br/>
 My son is treated as a second class citizen. I hate to think of all the people that are losing out because we do not provide equitable services to everyone. It’s time for change. Let’s embrace difference and promote inclusion. Real Inclusion not token inclusion. Let’s ALL LIVE our BEST life!
-<br/>
-<br/>
-#AwarenessOverload
+![](https://raw.githubusercontent.com/AwarenessOverload/AwarenessOverload/gh-pages/img/Aisling%23.JPG)
 <br/>
 <br/>
 Aisling McNiffe
 Carer and Advocate
+<br/>
+<br/>
