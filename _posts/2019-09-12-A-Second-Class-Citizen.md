@@ -6,7 +6,6 @@ featimg:
 tags: 
 category: 
 ---
-<br/>
 ![](https://raw.githubusercontent.com/AwarenessOverload/AwarenessOverload/gh-pages/img/Equality-Vs-Equity..final-edit-1.jpg)
 <br/>
 <br/>
