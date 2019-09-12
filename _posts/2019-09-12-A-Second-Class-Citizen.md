@@ -9,8 +9,10 @@ category:
 ![](https://raw.githubusercontent.com/AwarenessOverload/AwarenessOverload/gh-pages/img/Equality-Vs-Equity..final-edit-1.jpg)
 <br/>
 <br/>
-We face discrimination on a daily basis. Every day I have to fight for something or a service on his behalf.
-Jack is 14 years old and has a complex medical diagnosis. He has Down Syndrome and a rare auto-inflammatory disease. As a result he is tube-fed around the clock, wears nappies and is on 15 meds numerous times daily. He is non-verbal and relies on me for everything. Yet he is a happy smiley boy and lives in the moment. He doesn’t bear grudges to those who discriminate against him because he is unaware. I, however carry a lot of anger and resentment because of the way he is treated.
+To whomever is reading this I am going to explain to you the issues that I face as a carer to my son Jack. He faces so many issues as a boy with severe/profound intellectual and physical disability
+We face discrimination on a daily basis. Every day I have to fight for something or a service on his behalf. Jack is 14 years old and has a complex medical diagnosis. He has Down Syndrome and a rare 
+auto-inflammatory disease. As a result he is tube-fed around the clock, wears nappies and is on 15 meds numerous times daily. He is non-verbal and relies on me for everything. Yet he is a happy smiley 
+boy and lives in the moment. He doesn’t bear grudges to those who discriminate against him because he is unaware. I, however carry a lot of anger and resentment because of the way he is treated.
 <br/>
 <br/>
 Just one example of the discrimination we face is when we get to a venue there is no access for wheelchairs. This can even start when trying to find a parking space. So first of all we need to park the car and have plenty of space to lower the ramp at the back to let Jack, who travels in his wheelchair out. Then we need ramp access instead of steps to get in. Some places tell us we can gain access if we go down the back lane! I have done this a couple of times and it’s not nice. It’s scary and can make me feel vulnerable. Jack remains oblivious but it’s my job as his mum to protect him so I’d rather not take these risks.
