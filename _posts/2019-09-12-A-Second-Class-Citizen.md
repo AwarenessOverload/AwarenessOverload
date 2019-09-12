@@ -9,7 +9,9 @@ category:
 ![](https://raw.githubusercontent.com/AwarenessOverload/AwarenessOverload/gh-pages/img/Equality-Vs-Equity..final-edit-1.jpg)
 <br/>
 <br/>
-To whomever is reading this I am going to explain to you the issues that I face as a carer to my son Jack. He faces so many issues as a boy with severe/profound intellectual and physical disability
+To whomever is reading this I am going to explain to you the issues that I face as a carer to my son Jack. He faces so many issues as a boy with severe/profound intellectual and physical disability.
+<br/>  
+<br/>
 We face discrimination on a daily basis. Every day I have to fight for something or a service on his behalf. Jack is 14 years old and has a complex medical diagnosis. He has Down Syndrome and a rare 
 auto-inflammatory disease. As a result he is tube-fed around the clock, wears nappies and is on 15 meds numerous times daily. He is non-verbal and relies on me for everything. Yet he is a happy smiley 
 boy and lives in the moment. He doesn’t bear grudges to those who discriminate against him because he is unaware. I, however carry a lot of anger and resentment because of the way he is treated.
