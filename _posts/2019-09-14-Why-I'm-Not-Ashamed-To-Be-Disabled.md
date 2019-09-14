@@ -78,12 +78,11 @@ Sophie's social media links are :
 <br/>
 [Chronic illness lifestyle blog](http://mummyingandme.com).
 <br/>
-[Twitter](https://twitter.com/mummyingandme).
+[Sophie's Twitter](https://twitter.com/mummyingandme).
 <br/>
-[Facebook](https://www.facebook.com/mummyingandme).
+[Sophie's Facebook](https://www.facebook.com/mummyingandme).
 <br/>
-[Instagram](https://www.instagram.com/mummyingme/).
+[Sophie's Instagram](https://www.instagram.com/mummyingme/).
 <br/>
 <br/>
-(https://www.instagram.com/mummyingme/). 
 *Please not this is taken with permission from Sophie's website*
