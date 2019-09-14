@@ -86,3 +86,8 @@ Sophie's social media links are :
 <br/>
 <br/>
 *Please not this is taken with permission from Sophie's website*
+<br/>
+<br/>
+[Awareness Overload Facebook](https://www.facebook.com/OfficialAwarenessOverload//).
+[Awareness Overload Twitter](https://twitter.com/AwarenessOver/).
+[Awareness Overload Insagram](https://www.instagram.com/awarenessoverload//).
