@@ -76,15 +76,14 @@ Check Sophie's Blog & Social Meida out below!
 Sophie's social media links are :
 
 <br/>
-🙋‍♀️Chronic illness lifestyle blog🙋‍♀️ - 💜http://mummyingandme.com
+[Chronic illness lifestyle blog](http://mummyingandme.com).
 <br/>
 [Twitter](https://twitter.com/mummyingandme).
-
-Facebook - 💙http://Facebook.com/mummyingandme
 <br/>
-Instagram - 🧡http://Instagram.com/mummyingme
+[Facebook](https://www.facebook.com/mummyingandme).
 <br/>
-Twitter - 💚 (https://Twitter.com/mummyingandme)
+[Instagram](https://www.instagram.com/mummyingme/).
 <br/>
 <br/>
+(https://www.instagram.com/mummyingme/). 
 *Please not this is taken with permission from Sophie's website*
