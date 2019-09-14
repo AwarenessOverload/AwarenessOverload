@@ -21,7 +21,7 @@ Just one example of the discrimination we face is when we get to a venue there i
 #LetUsIn
 <br/>
 <br/>
-Then of course when/ if we do gain access... great but wait.... Jack needs me to change his nappy/pad. Well there are only 11 places to do this in the entire of the Republic of Ireland. So the likelihood that we are in any of those places is pretty low. You can see a list of those toilets/ bathrooms on www.changingplaces.ie
+Then of course when/ if we do gain access... great but wait.... Jack needs me to change his nappy/pad. Well there are only 11 places to do this in the entire of the Republic of Ireland. So the likelihood that we are in any of those places is pretty low. You can see a list of those toilets/ bathrooms on [www.changingplaces.ie](www.changingplaces.ie).
 They differ to a regular wheelchair toilet because they feature an adult sized changing bench and a hoist as well as sink, toilet with space both sides for Carers and a privacy screen.
 <br/>
 <br/>
