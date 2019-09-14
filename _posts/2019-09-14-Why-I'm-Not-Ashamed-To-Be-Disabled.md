@@ -82,7 +82,7 @@ Facebook - 💙http://Facebook.com/mummyingandme
 <br/>
 Instagram - 🧡http://Instagram.com/mummyingme
 <br/>
-Twitter - 💚(https://Twitter.com/mummyingandme)
+Twitter - 💚 (https://Twitter.com/mummyingandme)
 <br/>
 <br/>
 *Please not this is taken with permission from Sophie's website*
