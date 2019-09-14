@@ -38,7 +38,7 @@ But yet the meaning of the word disabled covers an awful lot more people than on
 According to the Equality Act 2010, you are disabled if:
 <br/>
 <br/>
->You have a physical or mental impairment that has a ‘substantial’ and ‘long-term’ negative effect on your ability to do normal daily activities.'' - Equality Act, 2010
+>You have a physical or mental impairment that has a ‘substantial’ and ‘long-term’ negative effect on your ability to do normal daily activities.'' - Equality Act, 2010>.
 <br/>
 <br/>
 Yes of course by the very nature of the definition, being disabled means you find it difficult to do certain things that able-bodied people can do. I’m not going to lie to anyone, living with M.E. alongside other chronic conditions, is not easy. 
