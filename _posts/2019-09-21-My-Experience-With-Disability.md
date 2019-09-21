@@ -40,3 +40,6 @@ My experience of disability has been complicated (is it ever straightforward?). 
 <br/>
 Written By Bethany Dawson Co-Founder Of [BVisible](https://https://www.bvisible.info/) 
 Journalist & Policy Researcher
+<br/>
+<br/>
+Check Our [Twitter](https://twitter.com/AwarenessOver/). [Facebook](https://www.facebook.com/OfficialAwarenessOverload/). & [Instagram](https://www.instagram.com/awarenessoverload/). out!
