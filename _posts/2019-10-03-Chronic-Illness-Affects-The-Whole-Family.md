@@ -30,7 +30,7 @@ If, God forbid, anything happens to anyone – if they break a leg or have an ac
 Because I have a chronic illness, it’s not just me who goes through the pain. It is the family and my siblings too, and I think it’s important to highlight the fact that if one person has something wrong with them, the whole family suffers, as well as the person with the illness or the disability or whatever the problem may be.
 <br/>
 <br/>
-Written by Benat Broderick. Article from the Irish Times – Read it [Here](irishtimes.com/life-and-style/health-family/benat-14-because-i-have-a-chronic-illness-the-whole-family-suffers-1.3694904)
+Written by Benat Broderick. Article from the Irish Times – Read it [Here](https://www.irishtimes.com/life-and-style/health-family/benat-14-because-i-have-a-chronic-illness-the-whole-family-suffers-1.3694904)
 <br/>
 <br/>
 Benat’s Social Media - Check his [Facebook](https://www.facebook.com/BenatFightsCF) & [Twitter](https://twitter.com/BenatBroderick) out.
