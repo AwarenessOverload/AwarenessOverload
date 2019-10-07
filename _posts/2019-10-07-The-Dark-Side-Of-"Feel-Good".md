@@ -11,7 +11,7 @@ category:
 <br/>
 There’s a news story currently making the rounds online about disability, and I thought I’d talk about it. Ryan Neighbors is a 10-year-old girl who has Spina Bifida whose school teacher
 organised a school trip to the Falls of Ohio, a place he and everyone involved knew was extremely inaccessible, and took it upon himself to carry her around so that she could participate. 
-The full story can be read here: [https://www.standard.co.uk/news/world/hero-teacher-carries-wheelchairbound-student-through- wildlife-reserve-so-she-could-attend-school-a4245896.html]( https://www.standard.co.uk/news/world/hero-teacher-carries-wheelchairbound-student-through- wildlife-reserve-so-she-could-attend-school-a4245896.html)
+The full story can be read here: [here](https://www.standard.co.uk/news/world/hero-teacher-carries-wheelchairbound-student-through- wildlife-reserve-so-she-could-attend-school-a4245896.html)
 <br/>
 <br/>
 If you read this and were annoyed that the inaccessible trip was decided on despite the fact
@@ -21,16 +21,16 @@ that there is a wheelchair user in the class, you’re like me.
 And you’re also, sadly, in the minority.
 <br/>
 <br/>
-This story is one of many stories involving disabled people shared online solely to make people feel good. Another example is the story of Cillian Jackson, a boy whose family could not afford a power wheelchair, so a robotics team in a local school had to make one for him [https://www.nytimes.com/2019/04/03/us/robotics-wheelchair.html](https://www.nytimes.com/2019/04/03/us/robotics-wheelchair.html). His family, who were not
+This story is one of many stories involving disabled people shared online solely to make people feel good. Another example is the story of Cillian Jackson, a boy whose family could not afford a power wheelchair, so a robotics team in a local school had to make one for him [NY Times](https://www.nytimes.com/2019/04/03/us/robotics-wheelchair.html). His family, who were not
 poor, couldn’t afford a basic power chair, Ryan Neighbors’ teacher arranged an inaccessible trip despite knowing he had a wheelchair user in his class, these stories aren’t feel-good, happy stories, they’re examples of abled people stepping in to make up for a way that society has failed disabled people. This type of story, and others like it, have a name, inspiration porn.
 <br/>
 <br/>
-“Inspiration porn”, a term coined by the late disability activist and comedian Stella Young, describes anything that, as Young put it in her TEDxSydney talk in 2014 [https://youtu.be/8K9Gg164Bsw](https://youtu.be/8K9Gg164Bsw) , “objectifies one group of people for the benefit of another group of people”, with the former group in this case being disabled people and the latter 
+“Inspiration porn”, a term coined by the late disability activist and comedian Stella Young, describes anything that, as Young put it in her TEDxSydney talk in 2014 [Video](https://youtu.be/8K9Gg164Bsw) , “objectifies one group of people for the benefit of another group of people”, with the former group in this case being disabled people and the latter 
 being abled people. It can come in many forms, such as images of disabled people with captions such as “The only disability in life is a bad attitude” or “what’s your excuse” and, indeed, news reporting, and a defining characteristic of this type of content is that it presents a disabled person not as an actual person, but a thing to inspire abled people, a concept, and it is 
 often made and released without the consent of those involved.
 <br/>
 <br/>
-Perhaps the most nefarious aspect of inspiration porn isn’t how it’s presented but rather the real-world effects of it, mainly its impact on the mental health of disabled people and the impact on how abled people interact with disabled people. A good example of both can be found in a Twitter thread [https://twitter.com/Imani_Barbarin/status/1071595793566654465](https://twitter.com/Imani_Barbarin/status/1071595793566654465) by someone in the 
+Perhaps the most nefarious aspect of inspiration porn isn’t how it’s presented but rather the real-world effects of it, mainly its impact on the mental health of disabled people and the impact on how abled people interact with disabled people. A good example of both can be found in a Twitter thread [Twitter Thread5](https://twitter.com/Imani_Barbarin/status/1071595793566654465) by someone in the 
 disability community that I really look up to, blogger and public speaker Imani Barbarin. In this thread, Imani describes how the expectation put on her to be “inspiring” led to impossibly high expectations of herself which in turn led to depression. All of this is because of the pressure put on her by society through the second effect mentioned at the start of this paragraph, her
 interactions with others. 
 <br/>
