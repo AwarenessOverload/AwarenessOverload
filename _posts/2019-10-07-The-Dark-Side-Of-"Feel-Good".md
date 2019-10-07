@@ -21,7 +21,7 @@ that there is a wheelchair user in the class, you’re like me.
 And you’re also, sadly, in the minority.
 <br/>
 <br/>
-This story is one of many stories involving disabled people shared online solely to make people feel good. Another example is the story of Cillian Jackson, a boy whose family could not afford a power wheelchair, so a robotics team in a local school had to make one for him [https://www.nytimes.com/2019/04/03/us/robotics-wheelchair.html]. His family, who were not
+This story is one of many stories involving disabled people shared online solely to make people feel good. Another example is the story of Cillian Jackson, a boy whose family could not afford a power wheelchair, so a robotics team in a local school had to make one for him [https://www.nytimes.com/2019/04/03/us/robotics-wheelchair.html](https://www.nytimes.com/2019/04/03/us/robotics-wheelchair.html). His family, who were not
 poor, couldn’t afford a basic power chair, Ryan Neighbors’ teacher arranged an inaccessible trip despite knowing he had a wheelchair user in his class, these stories aren’t feel-good, happy stories, they’re examples of abled people stepping in to make up for a way that society has failed disabled people. This type of story, and others like it, have a name, inspiration porn.
 <br/>
 <br/>
@@ -30,7 +30,7 @@ being abled people. It can come in many forms, such as images of disabled people
 often made and released without the consent of those involved.
 <br/>
 <br/>
-Perhaps the most nefarious aspect of inspiration porn isn’t how it’s presented but rather the real-world effects of it, mainly its impact on the mental health of disabled people and the impact on how abled people interact with disabled people. A good example of both can be found in a Twitter thread (https://twitter.com/Imani_Barbarin/status/1071595793566654465) by someone in the 
+Perhaps the most nefarious aspect of inspiration porn isn’t how it’s presented but rather the real-world effects of it, mainly its impact on the mental health of disabled people and the impact on how abled people interact with disabled people. A good example of both can be found in a Twitter thread [https://twitter.com/Imani_Barbarin/status/1071595793566654465](https://twitter.com/Imani_Barbarin/status/1071595793566654465) by someone in the 
 disability community that I really look up to, blogger and public speaker Imani Barbarin. In this thread, Imani describes how the expectation put on her to be “inspiring” led to impossibly high expectations of herself which in turn led to depression. All of this is because of the pressure put on her by society through the second effect mentioned at the start of this paragraph, her
 interactions with others. 
 <br/>
