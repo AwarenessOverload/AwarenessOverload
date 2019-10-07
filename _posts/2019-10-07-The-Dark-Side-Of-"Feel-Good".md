@@ -6,7 +6,7 @@ featimg:
 tags: 
 category: 
 ---
-![]https://raw.githubusercontent.com/AwarenessOverload/AwarenessOverload/gh-pages/img/not_wheelchair_accessible_by_hosmer23_d17w67w-fullview.jpg)
+![](https://raw.githubusercontent.com/AwarenessOverload/AwarenessOverload/gh-pages/img/not_wheelchair_accessible_by_hosmer23_d17w67w-fullview.jpg)
 <br/>
 <br/>
 There’s a news story currently making the rounds online about disability, and I thought I’d talk about it. Ryan Neighbors is a 10-year-old girl who has Spina Bifida whose school teacher
@@ -40,9 +40,6 @@ campaign to see why that can be very dangerous, particularly to Blind people. Re
 media can have a huge influence on behaviour, meaning in a world saturated with inspiration porn, “helping” disabled people without consideration for how they feel and if they want help is unsurprisingly common.
 <br/>
 <br/>
-Check Our [Twitter](https://twitter.com/AwarenessOver/). [Facebook](https://www.facebook.com/OfficialAwarenessOverload/). & [Instagram](https://www.instagram.com/awarenessoverload/). out!
-
-
 Another type of feel-good story that arises is, strangely, when a disabled person exhibits a talent. This slightly goes against what has been said so far, since it’s no longer praise for a mundane task, but the objectification in this case comes from the “if they can do it, what’s your excuse” mentality. Take America’s Got Talent 2019 winner Kodi Lee for example. His audition was shared non-stop
 on social media for a good month or two earlier this year, but it was not because of his admittedly phenomenal voice. The reason so many people shared it was because he’s blind and autistic. Many reaction videos made about this video include some variation on the phrase “If he can do it with all that’s limiting him, what am I doing?”, and this shows that even though Kodi is getting the recognition 
 he deserves, many people are seeing him not as an individual, but as a thing to motivate them. For more on Kodi and the underlying ableism of how he is discussed, check out Barbarin’s blog post ‘Are You Inspired By That Disabled Person or Shocked They Were Included?’ 
@@ -53,4 +50,3 @@ discussing it with them, using this article and the work of Imani Barbarin and o
 <br/>
 <br/>
 Check Our [Twitter](https://twitter.com/AwarenessOver/). [Facebook](https://www.facebook.com/OfficialAwarenessOverload/). & [Instagram](https://www.instagram.com/awarenessoverload/). out!
-
