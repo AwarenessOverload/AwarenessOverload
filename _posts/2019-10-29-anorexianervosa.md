@@ -1,7 +1,7 @@
 ---
 author: chloe falkner
 layout: post-full
-title: TITLE-HERE
+title: The impact of anorexia nervosa on a persons life
 featimg: IMG-HERE
 tags: [TAG1, TAG2]
 category: [CATEGORY-HERE]
