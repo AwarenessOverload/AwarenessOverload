@@ -6,7 +6,6 @@ featimg: IMG-HERE
 tags: [inclusivity, TAG2]
 category: [disability rights]
 ---
-
 “Other than pornography, there is no film genre so concerned with the body, nor of gouging
 a reaction from it, than horror.” – Emma Madden, 2019
 (https://www.theguardian.com/film/2019/jul/10/midsommars-ableism-resurrects-the-dark-history-
