@@ -2,7 +2,7 @@
 author: Ami
 layout: post-full
 title: <h5> Living With Sensory Ataxia
-featimg: IMG-HERE
+featimg: 
 tags: [TAG1, TAG2]
 category: [CATEGORY-HERE]
 ---
@@ -46,5 +46,6 @@ drunk. They could have a condition which affects their balance. Not every disabi
 <br/>
 <br/>
 Written By Ami Ireland. Follow her on [Twitter](https://twitter.com/AmiHIreland)
-
+<br/>
+<br/>
 Check Our [Twitter](https://twitter.com/AwarenessOver/). [Facebook](https://www.facebook.com/OfficialAwarenessOverload/). & [Instagram](https://www.instagram.com/awarenessoverload/). out!
