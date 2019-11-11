@@ -17,7 +17,7 @@ causes, most of them are associated with inner ear problems.
 <br/>
 <br/>
 The Beginning….
-<br/
+<br/>
 It all began in May 1990. I was 15 years old and in my penultimate year at school. A virus struck me down for 2
 weeks. After the virus was gone, I was left with an awful feeling of dizziness and vertigo that I have had ever since.
 My head constantly feels like it’s swimming, as if I’m bobbing up and down in the sea unable to stop. It is often
