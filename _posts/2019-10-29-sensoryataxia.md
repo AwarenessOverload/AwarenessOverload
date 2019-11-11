@@ -6,8 +6,6 @@ featimg: IMG-HERE
 tags: [TAG1, TAG2]
 category: [CATEGORY-HERE]
 ---
-
-
 My name is Ami, I’m 24 and I’m from Norfolk, England. I have quite a few disabilities but in this post,
 I will be bringing awareness to Sensory Ataxia.
 <br/>
@@ -50,9 +48,3 @@ drunk. They could have a condition which affects their balance. Not every disabi
 Written By Ami Ireland. Follow her on [Twitter](https://twitter.com/AmiHIreland)
 
 Check Our [Twitter](https://twitter.com/AwarenessOver/). [Facebook](https://www.facebook.com/OfficialAwarenessOverload/). & [Instagram](https://www.instagram.com/awarenessoverload/). out!
-
-
-
-
-
-
