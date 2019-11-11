@@ -213,7 +213,7 @@ than someone who’s in a wheelchair. The vertigo is part of me now, but it does
 used to.
 <br/>
 <br/>
-Written By Jonathan Brewer. Follow him on [Twitter](https://twitter.com/vertigoandme). [Facebook](https://www.facebook.com/MyVertigoandMe/?modal=admin_todo_tour). & [Instagram](https://www.instagram.com/myvertigoandme/). out!
+Written By Jonathan Brewer. Follow him on [Twitter](https://twitter.com/vertigoandme). [Facebook](https://www.facebook.com/MyVertigoandMe/?modal=admin_todo_tour). & [Instagram](https://www.instagram.com/myvertigoandme/)!
 <br/>
 <br/>
 Check Our [Twitter](https://twitter.com/AwarenessOver/). [Facebook](https://www.facebook.com/OfficialAwarenessOverload/). & [Instagram](https://www.instagram.com/awarenessoverload/). out!
